@@ -1,38 +1,51 @@
 ---
 templateKey: about-page
-title: About Us
-meta_title: About Us | Gatsby Starter Business
+title: Sobre nós
+meta_title: About Us | VaiVendendo
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Vai vende é uma Agência Digital que ......Lorem ipsum dolor sit amet, consectetuer
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+## VaiVendendo Agência Digital 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Atualmente, uma agência digital vai muito além da criação do seu site e de uma página no
+ Facebook. Uma boa agência trabalha as estratégias mais sofisticadas de marketing na internet,
+  como:
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+    LOJA online super SIMPLES e com gerenciamento do seu estoque facilitado.
+ Aumente suas vendas encontrando pessoas perto de você usando tecnologias de
+Geolocalização
+Receba por cartão pela internet.
+Desenvolvimento de seu site pois a internet NÃO é só Facebook e Instagram.
+Trabalhamos sua empresa no Facebook, Whatsapp.
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+Ela vai garantir que seu negócio conquiste seu espaço online com as melhores ferramentas e estratégias para, em seguida, 
+alimentar seus canais com conteúdos que realmente impactem sua persona. Isso tudo com o 
+intuito de transformar esses visitantes em leads e convertê-los em clientes.
 
-###Curabitur ullamcorper ultricies nisi.
+Paralelamente a tudo isso, a agência monitora estes resultados e estas interações,
+ para assim garantir o aumento da performance do seu negócio. A partir dessa mensuração,
+  algumas decisões são tomadas: o que deu certo é otimizado e o que não está tão bom assim é 
+  reavaliado com o objetivo de traçar novas e melhores estratégias para que o negócio cresça.
+Por que contratar uma agência digital?
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
+Uma agência digital é muito mais adequada e estará muito mais antenada e preparada para 
+garantir que suas estratégias estejam de acordo como as melhores práticas do mercado — e 
+que tragam resultados reais para o seu negócio.
 
-**Etiam ultricies nisi vel augue!**
+Isso porque, no mundo digital, tudo muda muito rápido. Novas ferramentas surgem a todo momento, 
+novas tendências aparecem e você, sozinho, cuidando de seu negócio não conseguiria acompanhar 
+— e nem mesmo aproveitar — as oportunidades rápidas que aparecem diariamente no mundo 
+da internet.
+Qual é a principal diferença de uma agência digital para uma comum?
+
+Uma agência digital é especializada em internet, ou seja, ela vai concentrar suas estratégias
+ e conhecimento exclusivamente no mundo virtual. E a grande vantagem disso é a expertise —
+ um diferencial enorme para quem quer uma presença virtual de impacto.
+
+Nesse cenário, é importante salientar que esta presença tem custos muito mais baixos que as 
+estratégias convencionais de propaganda e de marketing que conhecemos.
+Então, o que esperar de uma agência digital?
+
+Uma agência digital pode fazer muito por você e pelo futuro do seu negócio. Ela olhará com 
+cuidado para a sua persona, para o mercado, para os canais de divulgação e de produção de 
+conteúdo e tudo o que ela precisa no ambiente online para trazer os melhores resultados.

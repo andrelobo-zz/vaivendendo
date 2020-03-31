@@ -1,51 +1,38 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
+title: VaiVendendo Soluções Online
+meta_title: Home | Gatsby Starter Busin
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+heading: Nosso trabalho é fazer sua empresa vender mais
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Estamos prontos para alavancar seu negócio através da internet
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/loja_online.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+          Uma loja virtual é um ambiente pensado para possibilitar a realização de compras online. 
+            Entretanto, há muito mais informações por trás dessa definição.De acordo com termos técnicos, uma loja virtual é
+            um software desenvolvido para o ambiente web e direcionado, exclusivamente, para navegadores (browsers). 
+            o.Atualmente, o modelo pode ser usado tanto em computadores, como em dispositivos móveis.  
+    - image: /img/seguranca_online.png
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+        Ao abrir um negócio online, é preciso investir na segurança do site para que o cliente confie na sua loja e para que você 
+        não sofra nenhum prejuízo. Para que você consiga garantir a segurança do seu e-commerce, você vai precisar conhecer algumas
+         medidas que vão te ajudar a assegurar sua loja virtual. São elas: Certificado SSL, Selos, Sistemas de antifraude por exemplo.
+    - image: /img/marketing.png
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
-        pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt, 
-        scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam 
-        erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla. 
-        Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
-        non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
-        quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+        Mesmo as lojas físicas volta e meia se deparam com a pergunta: “vocês têm um site?”, ou então: “qual é o Facebook de vocês?”. 
+        A verdade é que o próprio público costuma cobrar das empresas uma presença na internet, ainda que elas não negociem nesse 
+        ambiente.Porém, não adianta apenas criar um site e uma página nas redes sociais. Para ser, de fato, precisa, é preciso que a 
+        estratégia considere diferentes cenários e fatores, de maneira inteligente e baseada em dados sólidos. Dessa forma, mais a
+        diante, veremos como aplicar o marketing digital para e-commerce de maneira adequada
+
+
+    - image: /img/vendas_online.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
