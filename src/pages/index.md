@@ -7,14 +7,14 @@ meta_description: >-
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Nosso trabalho é fazer sua empresa vender mais
+heading: Trazemos até seu pequeno negócio a realidade da venda online
 description: >-
-  Trazendo até seu pequeno negócio a realidade da venda online
+  Nosso trabalho é fazer você vender mais
 offerings:
   blurbs:
     - image: /img/loja_online.png
       text: >
-          Nós desenvolvemos e personalizamos seu espaço digital de vendas, isto é, sua loja virtual. Nela serão apresentados e
+          Nós desenvolvemos e personalizamos seu ESPAÇO DIGITAL DE VENDAS, isto é, sua loja virtual. Nela serão apresentados e
            comprados seus produtos e serviços, num ambiente eletrônico funcional, de fácil navegação, seguro e ágil, permitindo
             ao seu negócio atuar com maior acessibilidade e comodidade junto à clientela. Realizar vendas e pagamentos online, gerenciar
              estoque e pedidos, reduzir custos operacionais, estar disponível em plataforma própria para ser acessado em computadores e
