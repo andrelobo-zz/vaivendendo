@@ -11,16 +11,20 @@ Atualmente, uma agência digital vai muito além da criação do seu site e de u
  Facebook. Uma boa agência trabalha as estratégias mais sofisticadas de marketing na internet,
   como:
 
-    LOJA online super SIMPLES e com gerenciamento do seu estoque facilitado.
- Aumente suas vendas encontrando pessoas perto de você usando tecnologias de
-Geolocalização
-Receba por cartão pela internet.
-Desenvolvimento de seu site pois a internet NÃO é só Facebook e Instagram.
-Trabalhamos sua empresa no Facebook, Whatsapp.
+   O cenário mundial de cuidados com saúde pública e a instabilidade econômica em decorrência disso 
+   veio exigir que comerciantes de todos os tamanhos e segmentos se insiram e disponibilizem seus produtos 
+   e serviços no espaço virtual. É uma tendência crescente e irreversível essa necessidade para todos os ramos 
+   de fazerem anúncios e vendas online a fim de contornarem esse período de recesso financeiro e reclusão social . 
+   Fazer gerenciamento de redes sociais, pagamento online, campanhas direcionados nas mídias digitais são estratégias
+    para se conseguir manter no mercado, ao inovar e facilitar a relação com o cliente por meio do comercio virtual. 
+Diante disso, a VaiVendendo Agência Digital se propõe a dar suporte tecnológico e publicitário a microempreendedores
+ que pretendam elevar seu nível de profissionalismo na prática  de vendas online, potencializando e facilitando com 
+ isso suas operações comerciais.Adapte-se o quanto antes para lidar com essas mudanças rápidas, e siga vendendo, usando
+  uma plataforma digital que faça seu negócio ser eficiente, moderno, amigável, acessível e rentável.
 
 Ela vai garantir que seu negócio conquiste seu espaço online com as melhores ferramentas e estratégias para, em seguida, 
-alimentar seus canais com conteúdos que realmente impactem sua persona. Isso tudo com o 
-intuito de transformar esses visitantes em leads e convertê-los em clientes.
+alimentar seus canais com conteúdos que realmente impactem sua persona. Isso tudo com o intuito de transformar esses visitantes
+ em leads e convertê-los em clientes.
 
 Paralelamente a tudo isso, a agência monitora estes resultados e estas interações,
  para assim garantir o aumento da performance do seu negócio. A partir dessa mensuração,
