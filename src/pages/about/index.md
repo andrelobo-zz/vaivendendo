@@ -3,7 +3,7 @@ templateKey: about-page
 title: Sobre nós
 meta_title: About Us | VaiVendendo
 meta_description: >-
-  Vai vende é uma Agência Digital que ......Lorem ipsum dolor sit amet, consectetuer
+  Vai vendendo é uma Agência Digital que ......Lorem ipsum dolor sit amet, consectetuer
 ---
 ## VaiVendendo Agência Digital 
 

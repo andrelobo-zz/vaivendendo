@@ -9,7 +9,7 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 heading: Nosso trabalho é fazer sua empresa vender mais
 description: >-
-  Estamos prontos para alavancar seu negócio através da internet
+  Trazendo até seu pequeno negócio a realidade da venda online
 offerings:
   blurbs:
     - image: /img/loja_online.png
