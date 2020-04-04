@@ -1,96 +1,94 @@
-# gatsby-starter-business
-A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org) powered generic business website.
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby x Start Bootstrap Creative
+</h1>
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
+Gatsby implementation of [Start Bootstrap's Creative](https://startbootstrap.com/previews/creative/) template.
 
-## Demo
-[Gatsby Starter Business](https://gatsby-starter-business.netlify.com)
+[**Demo Website**](https://johnjkerr.github.io/gatsby-creative)
 
-## Features
-* Complete Business Website Suite - Home Page, About Page, Pricing Page, Contact Page and Blog
-* Netlify CMS for Content Management
-* SEO Friendly (Sitemap, Schemas, Meta Tags, GTM etc)
-* Bulma and Sass Support for styling
-* Progressive Web App & Offline Support
-* Tags and RSS Feed for Blog
-* Disqus and Share Support
-* Elastic-Lunr Search (NEW)
-* Pagination (NEW)
-* Contact Form (Netlify Forms)
-* Easy Configuration using `config.js` file
+## ✨ Features
 
-## Prerequisite
-* Node
-* Gatsby CLI (globally installed)
+- [React Bootstrap](https://react-bootstrap.github.io)
+- [Start Bootstrap Creative](https://startbootstrap.com/previews/creative)
+- [GitHub Actions](https://github.com/features/actions)
+- [React Scrollspy](https://github.com/makotot/react-scrollspy)
 
-## Getting Started
-Create your own project with Gatsby CLI:
-```shell
-gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git 
-```
+## 👀 Template Differences
 
-## Available Scripts
+Efforts have been made to keep the implementation as close to the source template as possible, however in adapting from jQuery to React there have been some changes.
 
-### Develop
-Start a hot-reloading development environment accessible at `localhost:8000`
-```shell
-yarn start
-```
+- Scrolling to page sections uses the browser [`scrollTo`](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTo) function rather than a jQuery animation. This means that [browsers which do not support `scrollTo`](https://caniuse.com/#search=scrollTo) are not animated.
+- The portfolio carousel uses React Bootstrap functionality for modal and carousel rather than Magnific Popup.
 
-### Build
-Get an optimized production build for your site generating static HTML and per-route JavaScript code bundles.
-```shell
-yarn build
-```
+## 🚀 Getting Started
 
-### Serve
-gatsby serve — Gatsby starts a local HTML server for testing your built site.
-```shell
-yarn serve
-```
+1.  **Create a Gatsby site.**
 
-### Lint
-Lint the code according to eslintrc file, for consistency.
-```shell
-yarn lint
-```
+    Use the Gatsby CLI to create a new site, specifying the starter project.
+    
+    ```sh
+    gatsby new project-name https://github.com/JohnJKerr/gatsby-creative
+    ```
 
-### Clean
-Remove the .cache and public for a scratch compile.
-```shell
-yarn clean
-```
+2.  **Start developing.**
 
-## Configuration
-To personalize and configure this Starter open `config.js` file and replace the default values.
+    Navigate into your new site’s directory and start it up.
 
-```javascript
-module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
-  siteTitleAlt: 'Business', // Alternative site title for SEO.
-  siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
-  // Do not use trailing slash!
-  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
-  siteDescription: 'Leverage Gatsby Business Starter for your Business.', // Website description used for RSS feeds/meta description tag.
-  siteRss: '/rss.xml',
-  siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
-  disqusShortname: 'gatsby-business-starter', // Disqus shortname.
-  userName: 'Vaibhav Sharma',
-  userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
-  userDescription: '',
-  copyright: 'Copyright © Gatsby Starter Business 2018. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#ffffff', // Used for setting manifest background color.
-}
+    ```sh
+    cd project-name
+    gatsby develop
+    ```
 
-```
+3.  **Open the source code and start editing!**
 
-## Deployment
-Clicking the button will ask for authentication via Github, which will create a repo in your github account with this starter. Then, it will build and deploy the site to Netlify.
+    Your site is now running at `http://localhost:8000`!
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/v4iv/gatsby-starter-business&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-You can read up on how to set up Identity(Authentication for CMS User) here [How To Set Up Netlify CMS](https://www.netlifycms.org/docs/add-to-your-site/)
+    Open the `project-name` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+
+## 🎓 Learning Gatsby
+
+Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+## 💫 Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JohnJKerr/gatsby-creative)
+
+### GitHub Actions x GitHub Pages
+
+This project also contains an example of [GitHub Actions](https://github.com/features/actions) deployment to [GitHub Pages](https://pages.github.com). View the [`deploy.yml`](https://github.com/JohnJKerr/gatsby-creative/blob/master/.github/workflows/deploy.yml) for the build definition.
+
+The build process deploys to a folder rather than the root, and therefore uses the `--pages-prefix` flag in the build step and `pathPrefix: '/gatsby-creative'` in [`gatsby-config.js`](https://github.com/JohnJKerr/gatsby-creative/blob/master/gatsby-config.js).
+
+#### Access Token
+
+If you wish to use the GitHub Actions workflow to deploy to GitHub Pages you will need to add an `ACCESS_TOKEN` secret to your repository
+
+Go to https://github.com/settings/tokens to generate a Personal Access Token and add it to your account. The token will need the following permissions:
+
+- repo
+- read:packages
+- write:packages
+
+Make a copy of your token as you will not be able to access it again.
+
+Return to your repository, go to settings and add a secret with the name `ACCESS_TOKEN`.
+
+The Action will then deploy your site to `{your-github-pages-url}/{your-repository}`.
+ 
+#### Not Using GitHub Pages?
+
+If you do not wish to use GitHub Pages, simply remove the `/.github/workflows/deploy.yml` file.
+
+<!-- AUTO-GENERATED-CONTENT:END -->
