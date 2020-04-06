@@ -61,9 +61,8 @@ export default class IndexPage extends React.Component {
                 <div className="mt-5">
                   <i className="fas fa-4x fa-gem text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Loja Virtual</h3>
-                  <p className="text-muted mb-0">Nós desenvolvemos e personalizamos seu ESPAÇO DIGITAL DE VENDAS, isto é, sua loja virtual. Nela serão apresentados e comprados seus produtos e serviços,
- num ambiente eletrônico funcional, de fácil navegação, seguro e ágil, permitindo ao seu negócio atuar com maior acessibilidade e comodidade junto à clientela.
- Realizar vendas e pagamentos online, gerenciar estoque e pedidos, reduzir custos operacionais, estar disponível em plataforma própria para ser acessado em 
+                  <p className="text-muted mb-0">Nós desenvolvemos seu ESPAÇO DIGITAL DE VENDAS, isto é, sua loja virtual. Nela serão apresentados seus produtos e serviços,
+ em um ambiente de fácil navegação, seguro e ágil, para seu negócio atuar com maior acessibilidade e comodidade junto aos seus clientes. 
 computadores e dispositivo móvel são algumas das vantagens em se ter uma negócio online.</p>
                 </div>
               </div>
