@@ -59,12 +59,12 @@ export default class IndexPage extends React.Component {
             <div className="row">
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-gem text-primary mb-4"></i>
+                  <i className="fas fa-4x fa-cart-arrow-down text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Loja Virtual</h3>
                   <p className="text-muted mb-0">Nós desenvolvemos seu ESPAÇO DIGITAL DE VENDAS, isto é, sua loja virtual. Nela serão apresentados seus produtos e serviços,
  em um ambiente de fácil navegação, seguro e ágil, para seu negócio atuar com maior acessibilidade e comodidade junto aos seus clientes. 
 computadores e dispositivo móvel são algumas das vantagens em se ter uma negócio online.</p>
-                </div>
+                </div>  
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
@@ -77,7 +77,7 @@ elevar suas vendas</p>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-globe text-primary mb-4"></i>
+                  <i className="fas fa-4x fa-lock text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Segurança e Confiança</h3>
                   <p className="text-muted mb-0">Ao abrir um negócio online, é preciso investir na SEGURANÇA DO SEU SITE utilizando medidas como : Certificado SSL, Selos, Sistemas de antifraude por exemplo.
  </p>
@@ -85,7 +85,7 @@ elevar suas vendas</p>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-heart text-primary mb-4"></i>
+                  <i className="fas fa-4x fa-chart-line text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Aumente suas vendas</h3>
                   <p className="text-muted mb-0">Seja com uma loja virtual, publicações nas redes socias, sistemas de pagamento online ou
                   geolocalização para atingir novos clientes, nosso compromisso é preparar seu negócio para esses novos tempos em que o comércio 
@@ -186,7 +186,7 @@ virtual será fundamental e indispensável para todos. </p>
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-8 text-center">
-                <h2 className="mt-0">Entre em contato conosoco!</h2>
+                <h2 className="mt-0">Entre em contato conosco!</h2>
                 <hr className="divider my-4"/>
                 <p className="text-muted mb-5">Rapidamente retornaremos!</p>
               </div>
