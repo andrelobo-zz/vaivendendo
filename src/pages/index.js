@@ -45,8 +45,8 @@ export default class IndexPage extends React.Component {
                 <p className="text-white-50 mb-4">Adapte-se o quanto antes para lidar com essas mudanças rápidas,
                  e siga vendendo, usando uma plataforma digital que faça seu negócio ser eficiente, moderno, amigável,
                   acessível e rentável.</p>
-                <a className="btn btn-light btn-xl js-scroll-trigger" href="#services"
-                   onClick={Scroller.handleAnchorScroll}>Get Started!</a>
+                <a className="btn btn-light btn-xl js-scroll-trigger" href="#contact"
+                   onClick={Scroller.handleAnchorScroll}>Comece agora!</a>
               </div>
             </div>
           </div>
@@ -71,8 +71,8 @@ computadores e dispositivo móvel são algumas das vantagens em se ter uma negó
                 <div className="mt-5">
                   <i className="fas fa-4x fa-laptop-code text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Marketing Digital</h3>
-                  <p className="text-muted mb-0">Também criamos todo seu aparato e ambientes nas REDES SOCIAIS, a fim de melhorar a exibição e interação do público com sua loja, página, conta e perfil nos buscadores 
-da internet, elevando seu número de curtidas, compartilhamentos, comentários e visualização ao fazer campanhas de alto alcance dentro das mídias sociais, visando 
+                  <p className="text-muted mb-0">Criamos todo seu aparato nas REDES SOCIAIS, a fim de melhorar a exibição e 
+                  interação do público com sua loja nos buscadores da internet.Alto alcance dentro das mídias sociais, visando 
 elevar suas vendas</p>
                 </div>
               </div>
@@ -80,9 +80,7 @@ elevar suas vendas</p>
                 <div className="mt-5">
                   <i className="fas fa-4x fa-globe text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Segurança e Confiança</h3>
-                  <p className="text-muted mb-0">Ao abrir um negócio online, é preciso investir na SEGURANÇA DO SEU SITE para que o cliente confie na sua loja e para que você não sofra nenhum prejuízo.
- Para que você consiga garantir a segurança do seu e-commerce, você vai precisar conhecer algumas medidas que vão te ajudar a assegurar sua loja virtual.
- São elas: Certificado SSL, Selos, Sistemas de antifraude por exemplo.
+                  <p className="text-muted mb-0">Ao abrir um negócio online, é preciso investir na SEGURANÇA DO SEU SITE utilizando medidas como : Certificado SSL, Selos, Sistemas de antifraude por exemplo.
  </p>
                 </div>
               </div>
@@ -90,10 +88,9 @@ elevar suas vendas</p>
                 <div className="mt-5">
                   <i className="fas fa-4x fa-heart text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Aumente suas vendas</h3>
-                  <p className="text-muted mb-0">Quando a palavra de ordem é trabalhar em casa e evitar ao máximo as saídas pelas ruas das cidades, a procura por empresas e serviços que estejam trabalhando suas
- VENDAS ONLINE se tornou a saída para se criar alternativa tanto para quem compra como para quem quer vender. Usando loja virtual, publicações virais, 
-chamadas audiovisuais, sistemas de pagamento online, dispositivos de geolocalização, nosso compromisso é lhe preparar para esses novos tempos em que o comércio 
-virtual será fundamental e indispensável para todos. Não demore, comece a atender seus clientes dentro de uma plataforma estratégica, atraente, barata e rentável </p>
+                  <p className="text-muted mb-0">Seja com uma loja virtual, publicações nas redes socias, sistemas de pagamento online ou
+                  geolocalização para atingir novos clientes, nosso compromisso é preparar seu negócio para esses novos tempos em que o comércio 
+virtual será fundamental e indispensável para todos. </p>
                 </div>
               </div>
             </div>
@@ -108,10 +105,10 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
                   <Img fluid={this.props.data.images.edges[0].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Category
+                      Fotógrafia
                     </div>
                     <div className="project-name">
-                      Project Name
+                     Patrick Grosner - patrickgrosner.com
                     </div>
                   </div>
                 </a>
@@ -121,10 +118,10 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
                   <Img fluid={this.props.data.images.edges[1].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Category
+                      Loja Virtual
                     </div>
                     <div className="project-name">
-                      Project Name
+                     Art- Una - art-una.com
                     </div>
                   </div>
                 </a>
@@ -134,10 +131,10 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
                   <Img fluid={this.props.data.images.edges[2].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Category
+                      Meio Ambiente
                     </div>
                     <div className="project-name">
-                      Project Name
+                     Instituto Dessana - institutodessana.org
                     </div>
                   </div>
                 </a>
@@ -147,10 +144,10 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
                   <Img fluid={this.props.data.images.edges[3].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Category
+                      Modelos Ecommerce Gatsby
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Gatsby
                     </div>
                   </div>
                 </a>
@@ -160,10 +157,10 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
                   <Img fluid={this.props.data.images.edges[4].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Category
+                      Modelos Ecommerce Wordpress
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Wordpress
                     </div>
                   </div>
                 </a>
@@ -185,32 +182,24 @@ virtual será fundamental e indispensável para todos. Não demore, comece a ate
           </div>
         </section>
 
-        <section className="page-section bg-dark text-white">
-          <div className="container text-center">
-            <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
-            <a className="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
-          </div>
-        </section>
-
+       
         <section className="page-section" id="contact">
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-8 text-center">
-                <h2 className="mt-0">Let's Get In Touch!</h2>
+                <h2 className="mt-0">Entre em contato conosoco!</h2>
                 <hr className="divider my-4"/>
-                <p className="text-muted mb-5">Ready to start your next project with us? Give us a call or send us an
-                  email
-                  and we will get back to you as soon as possible!</p>
+                <p className="text-muted mb-5">Rapidamente retornaremos!</p>
               </div>
             </div>
             <div className="row">
               <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+1 (202) 555-0149</div>
+                <div>92 98470-0329</div>
               </div>
               <div className="col-lg-4 mr-auto text-center">
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                <a className="d-block" href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a>
+                <a className="d-block" href="mailto:contact@yourwebsite.com">loboandre@hotmail.com</a>
               </div>
             </div>
           </div>
