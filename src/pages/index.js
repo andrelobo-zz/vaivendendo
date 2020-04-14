@@ -69,7 +69,7 @@ export default class IndexPage extends React.Component {
                 <div className="mt-5">
                   <i className="fas fa-4x fa-search-dollar text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Marketing Digital</h3>
-                  <p className="text-muted mb-0">Criamos todo seu aparato nas REDES SOCIAIS, a fim de melhorar a exibição e 
+                  <p className="text-muted mb-0">Criamos todo seu ambiente nas REDES SOCIAIS, a fim de melhorar a exibição e 
                   interação do público com sua loja nos buscadores da internet.Alto alcance dentro das mídias sociais, visando 
 elevar suas vendas</p>
                 </div>
@@ -103,7 +103,7 @@ virtual será fundamental e indispensável para todos. </p>
                   <Img fluid={this.props.data.images.edges[0].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Fotógrafia
+                      Fotografia
                     </div>
                     <div className="project-name">
                      Patrick Grosner - patrickgrosner.com
@@ -142,7 +142,7 @@ virtual será fundamental e indispensável para todos. </p>
                   <Img fluid={this.props.data.images.edges[3].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Modelos Ecommerce Gatsby
+                      Modelo Gatsby
                     </div>
                     <div className="project-name">
                       Gatsby
@@ -155,7 +155,7 @@ virtual será fundamental e indispensável para todos. </p>
                   <Img fluid={this.props.data.images.edges[4].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption">
                     <div className="project-category text-white-50">
-                      Modelos Ecommerce Wordpress
+                      Modelo Wordpress
                     </div>
                     <div className="project-name">
                       Wordpress
@@ -168,10 +168,10 @@ virtual será fundamental e indispensável para todos. </p>
                   <Img fluid={this.props.data.images.edges[5].node.childImageSharp.fluid}/>
                   <div className="portfolio-box-caption p-3">
                     <div className="project-category text-white-50">
-                      Category
+                      Modelo Gatsby
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Ecommerce
                     </div>
                   </div>
                 </a>
